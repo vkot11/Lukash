@@ -3,7 +3,7 @@ import codecs
 import random
 from telebot import types
 
-TOKEN = '5047656036:AAFl0g8s11lgQAx1EHIlZVgDD45KG0Lgpg0'
+TOKEN = '5067556036:AAFl0g8s11lgQAx1EHIlZVgDD45KG0Lgpg0'
 bot = telebot.TeleBot(TOKEN)
 
 # Зчитуємо тхт файл та записуємо в ліст
